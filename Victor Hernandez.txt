@@ -1,2 +1,2 @@
 Mi primer ejemplo con GIT 
-modificando el archivo
+Modificando el archivo que tiene mi nombre
